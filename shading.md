@@ -11,7 +11,7 @@ in the [Tool Bar](tool-bar.md) (the Brush, Spray Can, Paint Bucket, and
 1- and 2-D Shape tools, shown below), but the tool you are most likely 
 to be using it with is the Brush.
 
-
+![Shading Ink Tools](shading/shading-ink-tools.png)
 
 ## Shading Ink with the Brush Tool
 
